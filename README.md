@@ -27,11 +27,4 @@ The final PDF serves as a sample template for email forensics or cybersecurity c
 - [PhishTank](https://www.phishtank.com/)
 - [FPDF](https://pyfpdf.github.io/)
 
-## 🧑‍💻 Usage
 
-Clone the repo and run the script to generate the PDF:
-
-```
-git clone https://github.com/yourusername/phishing-analysis.git
-cd phishing-analysis
-python generate_report.py
