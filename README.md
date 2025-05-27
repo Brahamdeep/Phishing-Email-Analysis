@@ -17,9 +17,6 @@ The final PDF serves as a sample template for email forensics or cybersecurity c
 ## 📂 Contents
 
 - `Phishing_Email_Analysis_Report.pdf` — Final report with annotated phishing indicators.
-- `email_sample.txt` *(optional)* — The phishing email used for analysis.
-- `generate_report.py` — Python script using FPDF to generate the report.
-
 ## 🛠 Tools Used
 
 - [MXToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
